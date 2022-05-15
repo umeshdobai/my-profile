@@ -2,7 +2,7 @@
     "name": "myprofile",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://umeshdobai.github.io",
+    "homepage": "https://umeshdobai.github.io/my-profile",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.2.0",
