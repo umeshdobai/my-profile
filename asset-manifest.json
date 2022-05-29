@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/my-profile/static/css/main.073c9b0a.css",
-    "main.js": "/my-profile/static/js/main.3ecb5f10.js",
+    "main.css": "/my-profile/static/css/main.8d491894.css",
+    "main.js": "/my-profile/static/js/main.69d4cd8f.js",
     "static/js/787.a6e0be23.chunk.js": "/my-profile/static/js/787.a6e0be23.chunk.js",
-    "static/media/logo.svg": "/my-profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/college.png": "/my-profile/static/media/college.36a5900d3153f7733dca.png",
+    "static/media/Developer activity.gif": "/my-profile/static/media/Developer activity.32f9dc26d7e2b58bc6a4.gif",
+    "static/media/mindtree-logo.png": "/my-profile/static/media/mindtree-logo.6adaa5f9a577ac429fbf.png",
+    "static/media/up-arrow.gif": "/my-profile/static/media/up-arrow.3f27185cd9c65dd62038.gif",
+    "static/media/twitter-icon.svg": "/my-profile/static/media/twitter-icon.170c9667df5b0b1b6b61419b695d9a26.svg",
+    "static/media/github-icon.svg": "/my-profile/static/media/github-icon.db78fda33781556dd926101fbf859a64.svg",
     "index.html": "/my-profile/index.html",
-    "main.073c9b0a.css.map": "/my-profile/static/css/main.073c9b0a.css.map",
-    "main.3ecb5f10.js.map": "/my-profile/static/js/main.3ecb5f10.js.map",
+    "static/media/instagram-icon.svg": "/my-profile/static/media/instagram-icon.e12c98bcb98b568a13121d788538e0ce.svg",
+    "static/media/linkedin-icon.svg": "/my-profile/static/media/linkedin-icon.beca437ff906ecdaf04245d3f950c09c.svg",
+    "static/media/facebook-icon.svg": "/my-profile/static/media/facebook-icon.bf9a8309d218ec6f4e2da6a27707d994.svg",
+    "main.8d491894.css.map": "/my-profile/static/css/main.8d491894.css.map",
+    "main.69d4cd8f.js.map": "/my-profile/static/js/main.69d4cd8f.js.map",
     "787.a6e0be23.chunk.js.map": "/my-profile/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3ecb5f10.js"
+    "static/css/main.8d491894.css",
+    "static/js/main.69d4cd8f.js"
   ]
 }
