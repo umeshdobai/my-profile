@@ -1,0 +1,23 @@
+.education {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    .image {
+        padding-top: 2rem;
+        display: flex;
+        .collegeImg {
+            height: 25rem;
+            width: 50%;
+            border: 2px solid gray;
+            border-radius: 1rem;
+        }
+        .image_text{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding-left: 13rem;
+            font-size: 1.2rem;
+        }
+    }
+}

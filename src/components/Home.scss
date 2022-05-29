@@ -1,0 +1,47 @@
+.home {
+    .homedesc {
+        display: flex;
+        justify-content: center;
+        gap: 21rem;
+        padding-right: 3rem;
+        .text {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            font-size: 2rem;
+            padding-left: 3rem;
+            .heading {
+                font-family: cursive;
+                padding-left: 3rem;
+                .nametext {
+                    font-weight: bold;
+                }
+            }
+            .prabhupadquote {
+                font-size: 1rem;
+                color: gray;
+                text-align: end;
+                .prabhupad {
+                    text-align: end;
+                }
+            }
+        }
+    }
+
+    .upArrowImg {
+        display: none;
+        position: fixed;
+        bottom: 2rem;
+        right: 4rem;
+        z-index: 99;
+        border-radius: 50%;
+        height: 3rem;
+        width: 3rem;
+        cursor: pointer;
+    }
+}
+html {
+    scroll-behavior: smooth;
+}

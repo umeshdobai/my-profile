@@ -1,0 +1,11 @@
+.contact {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    .contact_image {
+        display: flex;
+        justify-content: flex-end;
+        gap: 1rem;
+        cursor: pointer;
+    }
+}

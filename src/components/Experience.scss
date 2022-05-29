@@ -1,0 +1,58 @@
+.experience {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    .experience_hr {
+        color: rgb(143, 136, 136);
+    }
+
+    .company_info {
+        padding-top: 2rem;
+    }
+
+    .marlabs_logo,
+    .mindtree_logo {
+        height: 7rem;
+        width: 7rem;
+    }
+
+    .company_logo {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .logo_active {
+        border: 5px solid gray;
+    }
+
+    .company_project {
+        padding-top: 1rem;
+    }
+
+    .company_project_details {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        border: 1px solid gray;
+        border-radius: 0.5rem;
+    }
+
+    .company_project_details_text {
+        font-size: 1.1rem;
+        line-height: 0.6rem;
+        font-weight: bold;
+    }
+
+    .company_project_details_info {
+        li {
+            list-style-type: disc;
+            font-size: 1.2rem;
+        }
+
+        .company_project_details_info_text {
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+    }
+}

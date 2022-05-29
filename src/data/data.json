@@ -1,0 +1,60 @@
+[
+    {
+        "id": "1",
+        "logo": "",
+        "role": "Software Engineer - Frontent developer",
+        "companyName": "Marlabs",
+        "duration": "July'19 - Auguset'21",
+        "Projects": [
+            {
+                "id": "2",
+                "name": "Paxia Inc.",
+                "role": "React Developer",
+                "technologyUsed": "React, Java, Reast API",
+                "pluginsUsed": "Ag grid, React konva",
+                "tools": "VS Code, Jira, svn",
+                "responsibilities": "<ul><li>created reusable components and modules for the application</li><li>created a drawing tool for the application</li></ul>",
+                "details": "<ul><li>I have been working for an airline industry-based project i.e. 'Paxia Solutions’.</li><li>It is a well-grounded business of airlines. It reduces the complexities of catering management, automating manual and tedious processes to free the staff to do other things and help to bottom line growth of the business. Generally, global airlines are the customer of this automation software.</li><li>It gives a web-based application to the airlines, so that they can manage the onboarding smoothly before take-off the flight. They can calculate the weight for each and every product which is onboarding and can manage properly although weight is very crucial for every airline.</li></ul>"
+            },
+            {
+                "id": "4",
+                "name": "Novo Nordisk",
+                "role": "salesforce Developer",
+                "technologyUsed": "salesforce",
+                "pluginsUsed": "",
+                "tools": "",
+                "responsibilities": "<ul><li>Analysis of bugs and provide fixes</li><li>Implemented change request whichever provided by client</li></ul>",
+                "details": "<ul><li>Novo Nordisk manufactures and markets pharmaceutical products and services specifically diabetes care medications and devices.</li><li>It is also involved with hemostasis management, growth hormone therapy and hormone replacement therapy</li><li>The company makes several drugs under various brand names, including Levemir, Tresiba, NovoLog, Novolin R, NovoSeven, NovoEight and Victoza.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "logo": "",
+        "role": "Senior Software Engineer - UI developer",
+        "companyName": "Mindtree",
+        "duration": "September'21 - Present",
+        "Projects": [
+            {
+                "id": "1",
+                "name": "Bekaert",
+                "role": "UI Developer",
+                "technologyUsed": "React Js, jQuery, HTML, SCSS, bootstrap, AEM, Magento, Graphql, Adyen Payment gateway",
+                "pluginsUsed": "Material UI",
+                "tools": "Vs Code, Azure Devops, AEM, JDK",
+                "responsibilities": "<ul><li>Involved in developing various modules in the application using React Js or jQuery. </li><li>Fetched API data using Graphql endpoint.</li><li>Analysis of defects and provide fixes.</li><li>Participated in technical discussions and impact analysis.</li></ul>",
+                "details": "<ul><li>: Bekaert’s Steel Wire Solutions business unit develops, manufactures and supplies a very broad range of steel wire products and solutions for customers in construction markets, consumer goods and agriculture, energy, </li><li>We have developed an e-com application Bekaert which is a steel manufacturing company.</li><li>Offering innovative solutions that add value to our customers and help them grow their business. That is what makes us better together.</li></ul>"
+            },
+            {
+                "id": "2",
+                "name": "Shortclasses",
+                "role": "UI Developer",
+                "technologyUsed": "React Js, HTML, SCSS, Java, Reast API",
+                "pluginsUsed": "Material UI",
+                "tools": "Vs Code, eclipse, visual sudio TFS",
+                "responsibilities": "<ul><li>Involved in developing various modules in the application using React Js, HTML, scss</li><li>Analyze the bugs and provided fix</li><li>Unit Testing from end to end</li></ul>",
+                "details": "<ul><li>It is a Mobile-first and web microlearning platform to help your employees outperform</li><li>Anytime, anywhere access to a business learning app in multiple languages to reinforce learning at the point of need.</li><li>SaaS based platform that automates learning recommendations based on learners’ preferences and needs.</li><li>Impact measurement through interactive dashboards and real-time reports.</li></ul>"
+            }
+        ]
+    }
+]

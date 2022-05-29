@@ -1,0 +1,29 @@
+.navbar {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.navbar-ul {
+    display: flex;
+    gap: 1.3rem;
+    justify-content: flex-end;
+}
+.active {
+    border-bottom: 0.2rem solid var(--Themecolor);
+}
+ul {
+    list-style: none;
+}
+.list-item a {
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: var(--Themecolor);
+    cursor: pointer;
+    line-height: 1.5rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.list-item a:hover {
+    color: gray;
+}
